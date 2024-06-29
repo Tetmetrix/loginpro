@@ -4,7 +4,7 @@ body{
 form{
     background-color: white;
     border:none;
-    height: 250px;
+    height: 260px;
     width: 200px;
     padding: 10px;
 
@@ -16,7 +16,7 @@ form{
 }
 img{
     border:none;
-    height: 270px;
+    height: 280px;
     width: 220px;
 }
 button{
