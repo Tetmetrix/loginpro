@@ -1,0 +1,42 @@
+body{
+    background-color: purple;
+}
+form{
+    background-color: white;
+    border:none;
+    height: 250px;
+    width: 200px;
+    padding: 10px;
+
+}
+#allb{
+    display: flex;
+    border: none;
+    margin: 250px;
+}
+img{
+    border:none;
+    height: 270px;
+    width: 220px;
+}
+button{
+    color:white;
+    border: 1px none;
+    height: 20px;
+    width: 200px;
+    background-color: purple;
+}
+input{
+    border: none;
+}
+h5{
+    color: purple;
+}
+h3{
+    font-family:Arial, Helvetica, sans-serif
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-align: center;
+}
